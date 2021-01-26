@@ -6,6 +6,9 @@ This is the Curriculum for [this](https://youtu.be/FSe_02FpJas) video on Learn C
 Remember to believe in your ability to learn. You can learn CV , you will learn CV, and if you stick to it,
 eventually you will master it.
 
+## Check this course out
+https://pjreddie.com/courses/computer-vision/ - The Ancient Secrets of Computer Vision
+
 ## Find a study buddy
 Join the #Computer_Vision_curriculum channel in our Slack channel to find one http://wizards.herokuapp.com
 
